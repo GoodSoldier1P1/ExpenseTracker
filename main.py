@@ -270,3 +270,7 @@ list_all_expenses()
 # Finalizing the GUI window
 root.update()
 root.mainloop()
+
+
+# THIS IS JUST BULLSHIT PLEASE DONT MERGE THIS REQUEST ON PULL 
+# DONT BE A WEIRDO
